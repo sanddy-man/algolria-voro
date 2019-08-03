@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "ais-ecommerce-demo-app",
+    "slug": "ais-ecommerce-demo-app",
+    "sdkVersion": "33.0.0",
+    "ios": {
+      "bundleIdentifier": "com.ais.demo"
+    },
+    "android": {
+      "package": "com.ais.demo",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBaeWeBSSf5gbk0AklXbdpOFdF6Fd6dgY0"
+        }
+      }
+    }
+  }
+}
